@@ -1,5 +1,5 @@
 # PVGED--Persian-Verb-related-Grammatical-Errors-Dataset
-PVGED is a data set that provided to detect the grammatical error related to the verb. This data set is in Persian language and has been collected and labeled from the sentences of Persian language learners.
+PVGED is a data set that provided to detect the grammatical error related to the verb. This data set is in Persian language and has been collected and labeled from the sentences of Persian language learners. The dataset consists of 3,843 sentences/35,308 tokens containing six types of verb errors.
 
 This Persian data set can be used to detect and correct verb-related grammatical errors based on the approaches of the neural network and sequence labeling.
 
